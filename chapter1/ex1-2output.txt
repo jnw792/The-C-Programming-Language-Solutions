@@ -1,5 +1,5 @@
-backspace:  Hello!
+backspace:   Hello!
 horizontal tab:  	Hello!
-vertical tab:   Hello!
+vertical tab:    Hello!
 Hello backslash \!
 double quote:  "Hello!"
